@@ -1,2 +1,2 @@
 # ps2anim
-ps2 animation like bm
+ps2 animation like bm...
