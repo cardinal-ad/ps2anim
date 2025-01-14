@@ -1,0 +1,26 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  width: 100vw;
+  height: 100vh;
+  overflow: hidden;
+}
+
+body {
+  margin: 0;
+  background: #330000;
+}
+
+canvas {
+  width: 100vw !important;
+  height: 100vh !important;
+  background: radial-gradient(circle at center, #660000 0%, #330000 100%);
+}
